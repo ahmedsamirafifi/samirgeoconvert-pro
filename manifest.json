@@ -1,0 +1,18 @@
+{
+  "name": "SamirGeoConvert Pro",
+  "short_name": "SamirGeoConvert",
+  "description": "Professional offline surveying toolkit: coordinate & datum conversion, geoid heights, COGO, GCP planning, CAD/GIS & RINEX files, technical reports — for Saudi Arabia and Egypt.",
+  "start_url": "./SamirGeoConvert_Pro.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b1221",
+  "theme_color": "#0f172a",
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
